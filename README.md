@@ -8,7 +8,7 @@ My name is Nicholas, I am currently getting my degree in Computer Science. I am 
 - 🤔 I’m looking for help with Python, Java
 - 📫 How to reach me: nknebel8@gmail.com
 - 😄 Pronouns: He/Him
-- 
+
 <!--
 **QuestionableSpark/QuestionableSpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
